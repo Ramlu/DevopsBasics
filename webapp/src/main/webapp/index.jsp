@@ -4,7 +4,10 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color: golden;
+      background-color: red;
+    }
+    h1 {
+      color: green;
     }
   </style>
 </head>
