@@ -9,6 +9,9 @@
     h1 {
       color: white;
     }
+    h3 {
+      color: green;
+    }
   </style>
 </head>
 <body>
