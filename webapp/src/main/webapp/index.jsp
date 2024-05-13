@@ -7,7 +7,7 @@
       background-color: green;
     }
     h1 {
-      color: red;
+      color: white;
     }
   </style>
 </head>
