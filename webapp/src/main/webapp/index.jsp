@@ -4,7 +4,7 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color: gold;
+      background-color: green;
     }
     h1 {
       color: white;
@@ -17,5 +17,6 @@
 <body>
   <h1>This is a sample test page with a test background color.</h1>
 <h3>Welcome to the DevOps World </h3>
+<h4>Please enter into the entertain world!</h4>
 </body>
 </html>
