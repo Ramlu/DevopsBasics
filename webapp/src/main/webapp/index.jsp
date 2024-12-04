@@ -19,5 +19,6 @@
 <h3>Welcome to the DevOps World </h3>
 <h4>Please enter into the entertain world!</h4>
 <h5>Please avoid unnecessary</h5>
+<p> Please select the offer </p>
 </body>
 </html>
